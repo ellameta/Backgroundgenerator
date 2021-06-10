@@ -1,4 +1,4 @@
-# Backgroundgenerator-by-me
+# Backgroundgenerator
 A simple background generator with the help of basic HTML, CSS and Javascript!
 
 
